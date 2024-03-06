@@ -2,7 +2,7 @@
 - 👀 I’m interested in things
 - 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: use pidgeons.
+- 📫 How to reach me: use pigeons.
 
 <!---
 oilcrest/oilcrest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
